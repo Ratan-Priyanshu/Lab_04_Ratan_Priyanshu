@@ -65,5 +65,3 @@ if __name__ == "__main__":
 
     print("\nSorted Flight Table:")
     tbl.display()
-
-
